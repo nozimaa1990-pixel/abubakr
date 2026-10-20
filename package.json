@@ -1,0 +1,9 @@
+{
+  "name": "300-maktab-professional",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Toshkent Sergeli tumanidagi 300-maktab uchun professional sayt",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "dev": "node server.js"},
+  "dependencies": {"express": "^4.21.2"}
+}
